@@ -11,7 +11,6 @@ require (
 	filippo.io/edwards25519 v1.0.0-alpha.2 // indirect
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
 	github.com/VictoriaMetrics/fastcache v1.6.0 // indirect
-	github.com/btcsuite/btcd v0.20.1-beta // indirect
 	github.com/celo-org/celo-bls-go v0.2.4 // indirect
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
 	github.com/deckarep/golang-set v1.8.0 // indirect
